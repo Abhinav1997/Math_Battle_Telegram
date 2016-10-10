@@ -3,6 +3,8 @@
 Telegram recently released [games](https://telegram.org/blog/games) and one of the games was Math Battle.
 This script can be used to obtain any score you want in the game.
 
+DISCLAIMER: I do not take any responsibility incase telegram bans you or limits your account.
+
 
 ## Requirements
 
