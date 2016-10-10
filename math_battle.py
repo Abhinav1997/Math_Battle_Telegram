@@ -22,7 +22,6 @@ playButton.click()
 score = 100
 
 for i in range(score):
-	time.sleep(1)
 	x = int(chrome.find_element_by_id('task_x').text)
 	y = int(chrome.find_element_by_id('task_y').text)
 	op = chrome.find_element_by_id('task_op').text
